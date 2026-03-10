@@ -58,5 +58,4 @@ web-lab-hello/
 - CSS Grid proje kart duzeni
 - Dogrulamali iletisim formu
 
-## Ekran Goruntusu
-(ekran goruntusunu buraya ekle)
+
